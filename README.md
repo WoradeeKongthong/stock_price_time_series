@@ -1,6 +1,6 @@
 # stock_price_time_series  
 Learning the machine learning for time series.  
-Type of time series  
+ 
 1. MLP (Multiple Layer Perceptron) for time series  
   1.1 Univariate MLP (1 feature input) with one step output  
   1.2 Multivariate MLP (n features input) with one step output (Keras Sequential API)  
