@@ -1,5 +1,4 @@
-# stock_price_time_series  
-Learning the machine learning for time series.  
+# Deep Learning for stock price time series.  
  
 1. MLP (Multiple Layer Perceptron) for time series  
   1.1 Univariate MLP (1 feature input) with one step output  
@@ -13,3 +12,13 @@ Learning the machine learning for time series.
   2.3 Multivariate CNN (n features input) with one step output (Keras Functional API)  
   2.4 Univariate CNN (1 feature input) with multi step output  
   2.5 Multivariate CNN (n features input) with multi step output  
+3. LSTM (Long Short Term Memory) for time series  
+  3.1 Univariate Vanilla LSTM with one step output  
+  3.2 Univariate Stacked LSTM with one step output  
+  3.3 Univariate Bidirectional LSTM with one step output  
+  3.4 Univariate CNN-LSTM with one step output  
+  3.5 Univariate ConvLSTM with one step output  
+  3.6 Multivariate Vanilla LSTM with one step output  
+  3.7 Univariate LSTM with multi step output (Vector model)  
+  3.8 Univariate LSTM with multi step output (Encoder-Decoder model)  
+  3.9 Multivariate LSTM with multi step output
